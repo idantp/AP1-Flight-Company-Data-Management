@@ -1,0 +1,21 @@
+Table MyCustomers.txt      (id,fullName,priority,)
+
+Table MyEmployees.txt      (id,seniority,birth_year,employerId,title,)
+
+Table MyPlanes.txt         (planeId,model_number,MANAGER needed, NAVIGATOR needed, FLY_ATTENDANT needed,PILOT needed, OTHER needed,
+                            max First Class, max Second Class,)
+
+Table MyFlights.txt        (flightID,plane_model,flight Date, source, destination,)
+
+Table MyReservations.txt   (resID,flightID,customerID,Class,maxBaggage,)
+
+Table EmployeeShift        (EmployeeID,Date of Work,)
+
+Table PlaneShift           (PlaneID,Date of Plane's Flight,)
+
+Table FlightClassesCap.txt (FlightID,Plane's First Class Max Cap,Plane's First Class Current Cap,Plane's Economy Class Max Cap,
+                            Plane's Economy Class Current Capacity,)
+
+Table FlightIDAndCrew.txt  (FlightID,EmployeeID that works at that flight,)
+
+Table ObjectsID.txt        (ID_number (free-one for the next Object))

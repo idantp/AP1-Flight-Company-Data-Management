@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ex2AC"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/idantp/CLionProjects/ex2AC/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/ex2AC/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/ex2AC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/ex2AC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/ex2AC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/idantp/CLionProjects/ex2AC/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/ex2AC/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/ex2AC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/ex2AC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/ex2AC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/idantp/CLionProjects/ex2AC/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/ex2AC/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/ex2AC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/ex2AC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/ex2AC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex2AC">
+				<Option output="/home/idantp/CLionProjects/ex2AC/cmake-build-debug/ex2AC" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/idantp/CLionProjects/ex2AC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/ex2AC/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex2AC"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/ex2AC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/ex2AC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/ex2AC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex2AC/fast">
+				<Option output="/home/idantp/CLionProjects/ex2AC/cmake-build-debug/ex2AC" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/idantp/CLionProjects/ex2AC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/ex2AC/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex2AC/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/ex2AC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/ex2AC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/ex2AC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/idantp/CLionProjects/ex2AC/Date.cpp">
+			<Option target="ex2AC"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/ex2AC/MyCustomer.cpp">
+			<Option target="ex2AC"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/ex2AC/MyCustomer.h">
+			<Option target="ex2AC"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/ex2AC/MyEmployee.cpp">
+			<Option target="ex2AC"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/ex2AC/MyEmployee.h">
+			<Option target="ex2AC"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/ex2AC/MyFlight.cpp">
+			<Option target="ex2AC"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/ex2AC/MyFlight.h">
+			<Option target="ex2AC"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/ex2AC/MyImplementation.cpp">
+			<Option target="ex2AC"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/ex2AC/MyImplementation.h">
+			<Option target="ex2AC"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/ex2AC/MyPlane.cpp">
+			<Option target="ex2AC"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/ex2AC/MyPlane.h">
+			<Option target="ex2AC"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/ex2AC/MyReservation.cpp">
+			<Option target="ex2AC"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/ex2AC/MyReservation.h">
+			<Option target="ex2AC"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/ex2AC/interface.h">
+			<Option target="ex2AC"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/ex2AC/main.cpp">
+			<Option target="ex2AC"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/ex2AC/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
